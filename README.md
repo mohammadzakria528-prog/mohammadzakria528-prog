@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Mohammad Zakria Banner" width="100%">
+</p>
 
 # Mohammad Zakria
 
