@@ -125,7 +125,7 @@ My goal is to contribute to teams where I can continue learning, collaborate wit
 
 ##  Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-zakria
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-zakria-741854407/
 - 📧 Email: mohammadzakria528@gmail.com
 
 ---
